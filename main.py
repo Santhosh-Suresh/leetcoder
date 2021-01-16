@@ -3,21 +3,26 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-from LeetCode.Example_problem import Solution
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+from LeetCode.Binary_tree import TreeNode, Solution
 
+a = TreeNode(2)
+b = TreeNode(5)
+c= TreeNode(6)
+d = TreeNode(8)
+e = TreeNode(10)
+f = TreeNode(11)
+g = TreeNode(12)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+a.left = d
+a.right = e
 
-a = Solution()
-print(a.canFormArray([15, 85, 23, 49], [[15, 85], [23, 49], [15]]))
+b.left = f
+b.right = g
 
+c.left = a
+c.right = b
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print_hi("Santhosh")
+search = Solution()
+ans = search.bfs(c, 22)
+print(ans, ans.val if ans else None)
