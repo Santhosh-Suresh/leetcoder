@@ -21,5 +21,3 @@ print(a.canFormArray([15, 85, 23, 49], [[15, 85], [23, 49], [15]]))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print_hi("Santhosh")
-
-print("I practice affirmations daily and am a master of Python, Data Science, Git, Machine Learning and Dev Ops")
