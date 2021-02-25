@@ -1,6 +1,6 @@
-from test import Solution
+from min_deviation_1675 import Solution
 
 a = Solution()
 
-nums = [1,2,10]
+nums = list(range(2,200_000,2))
 print(a.minimumDeviation(nums))
