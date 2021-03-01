@@ -33,4 +33,4 @@ class Solution( object ):
         keys= keys.set_index["key"]
         for key, node in tree_dict.items():
             node.val = keys.loc[key,"GST_val"]
-        return root 
+        return root

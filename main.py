@@ -1,9 +1,9 @@
-from min_deviation_1675 import Solution
+from Matrix_01_542 import Solution
 
 a = Solution()
 
-nums = list(range(2,200_000,2))
-print(a.minimumDeviation(nums))
+nums = [[0,0,0],   [0,1,0],  [1,1,1]]
+print(a.updateMatrix(nums))
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
