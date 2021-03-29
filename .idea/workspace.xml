@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/sum_of_left_leaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/746_min_cost_climbing_stairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +84,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614180522467</updated>
-      <workItem from="1617038165271" duration="91000" />
+      <workItem from="1617038165271" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
+      <created>1617038359508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617038359508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,16 +101,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Solve Sum of Left Leaves (Easy) via Recursion model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve Sum of Left Leaves (Easy) via Recursion model" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617038358782">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038358782" />
     <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617038324320">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617038372074">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038324320" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038372074" />
+    <state x="175" y="49" key="search.everywhere.popup" timestamp="1617038441899">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" key="search.everywhere.popup/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038441899" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
