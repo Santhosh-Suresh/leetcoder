@@ -1,3 +1,3 @@
-from LeetCode.sum_of_left_leaves import Solution
+from MinCostClimbingStairs_746 import Solution
 
 a = Solution()
