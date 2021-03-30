@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/746_min_cost_climbing_stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/MinCostClimbingStairs_746.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614180522467</updated>
-      <workItem from="1617038165271" duration="515000" />
+      <workItem from="1617038165271" duration="561000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617038520559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix Main and file names">
+      <created>1617038702986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617038702986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,21 +116,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Solve Sum of Left Leaves (Easy) via Recursion model" />
     <MESSAGE value="Solve 746 Min Cost of Climbing Stairs using induction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve 746 Min Cost of Climbing Stairs using induction" />
+    <MESSAGE value="Fix Main and file names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Main and file names" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617038520015">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617038702382">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038520015" />
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038702382" />
     <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617038538344">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617038709537">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038538344" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038709537" />
     <state x="175" y="49" key="search.everywhere.popup" timestamp="1617038441899">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
