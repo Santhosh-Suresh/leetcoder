@@ -19,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="a87709ae-daf3-4afa-8543-c4bb9ea2378a" />
   <component name="ProjectId" id="1ovwlIAX2KBh3QYM5lQlQzXD6GV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614180522467</updated>
       <workItem from="1617038165271" duration="561000" />
+      <workItem from="1617644295147" duration="1035000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -128,10 +130,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617038709537">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617646838162">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038709537" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617646838162" />
+    <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1617646355386">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="208" y="188" key="com.intellij.ide.util.TipDialog/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617646355386" />
     <state x="175" y="49" key="search.everywhere.popup" timestamp="1617038441899">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
