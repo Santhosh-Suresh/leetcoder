@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/trimBST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/add_two_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,7 @@
       <updated>1614180522467</updated>
       <workItem from="1617038165271" duration="561000" />
       <workItem from="1617644295147" duration="1692000" />
-      <workItem from="1617957940056" duration="259000" />
+      <workItem from="1617957940056" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -117,11 +117,29 @@
       <option name="project" value="LOCAL" />
       <updated>1617646858457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solve 699 trimBST problem">
+      <created>1617958237930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617958237930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -129,21 +147,22 @@
     <MESSAGE value="Solve 746 Min Cost of Climbing Stairs using induction" />
     <MESSAGE value="Fix Main and file names" />
     <MESSAGE value="Mid check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mid check" />
+    <MESSAGE value="Solve 699 trimBST problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve 699 trimBST problem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617646857755">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617958274765">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617646857755" />
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958274765" />
     <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617646838162">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617958333317">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617646838162" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958333317" />
     <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1617958080114">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
