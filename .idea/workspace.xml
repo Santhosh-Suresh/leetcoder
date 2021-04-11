@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/add_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/reverse_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <updated>1614180522467</updated>
       <workItem from="1617038165271" duration="561000" />
       <workItem from="1617644295147" duration="1692000" />
-      <workItem from="1617957940056" duration="387000" />
+      <workItem from="1617957940056" duration="420000" />
+      <workItem from="1618124595654" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617958237930</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solve Add two numbers">
+      <created>1617958341217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617958341217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +143,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -148,29 +158,30 @@
     <MESSAGE value="Fix Main and file names" />
     <MESSAGE value="Mid check" />
     <MESSAGE value="Solve 699 trimBST problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve 699 trimBST problem" />
+    <MESSAGE value="Solve Add two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve Add two numbers" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617958274765">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1617958340555">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958274765" />
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958340555" />
     <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617958333317">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617958345001">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958333317" />
-    <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1617958080114">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958345001" />
+    <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618129792298">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="208" y="188" key="com.intellij.ide.util.TipDialog/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617958080114" />
-    <state x="175" y="49" key="search.everywhere.popup" timestamp="1617038441899">
+    <state x="208" y="188" key="com.intellij.ide.util.TipDialog/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618129792298" />
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618129846666">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="175" y="49" key="search.everywhere.popup/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038441899" />
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618129846666" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
