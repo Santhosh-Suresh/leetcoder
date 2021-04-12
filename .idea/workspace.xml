@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cities_and_routes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -89,7 +89,7 @@
       <workItem from="1617644295147" duration="1692000" />
       <workItem from="1617957940056" duration="420000" />
       <workItem from="1618124595654" duration="944000" />
-      <workItem from="1618217562925" duration="179000" />
+      <workItem from="1618217562925" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618217649363</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Solve Reorder routes problem">
+      <created>1618217751305</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618217751305</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,21 +189,22 @@
     <MESSAGE value="Solve 699 trimBST problem" />
     <MESSAGE value="Solve Add two numbers" />
     <MESSAGE value="Solve Count Submatrices problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve Count Submatrices problem" />
+    <MESSAGE value="Solve Reorder routes problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve Reorder routes problem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1618217648797">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1618217750788">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217648797" />
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217750788" />
     <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1618130112632">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1618217753988">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618130112632" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217753988" />
     <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618217601519">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
