@@ -31,3 +31,22 @@ class Solution:
         else:
             return False
 
+""" A much faster solution that makes use of constant time search in sets"""
+
+
+class Solution_2:
+    def findTarget(self, root: TreeNode, k: int) -> bool:
+        contenders = set()
+
+        def find_partner(node):
+            if not node:
+                return False
+            if k - node.val in contenders:
+                return True
+            contenders.add(node.val)
+            return find_partner(node.left) or find_partner(node.right)
+
+        if root.val > k > 0:
+            return find_partner(root.left)
+        else:
+            return find_partner(root)
