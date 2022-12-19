@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/binarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec_22_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dec_22_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="a87709ae-daf3-4afa-8543-c4bb9ea2378a" />
+  <component name="JupyterTrust" id="2a6dadb4-3c09-4670-83a1-5e83c2a07779" />
   <component name="ProjectId" id="1ovwlIAX2KBh3QYM5lQlQzXD6GV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,8 +42,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/double_search_algorithm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,6 +57,28 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="leetcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +125,10 @@
       <workItem from="1618217562925" duration="215000" />
       <workItem from="1618477206236" duration="460000" />
       <workItem from="1618565482677" duration="26000" />
+      <workItem from="1670528345621" duration="2163000" />
+      <workItem from="1670962507471" duration="64000" />
+      <workItem from="1670962837332" duration="1578000" />
+      <workItem from="1670969239662" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
@@ -188,20 +225,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -219,32 +255,93 @@
     <option name="LAST_COMMIT_MESSAGE" value="Solve gcd_strings LC problem - 96% answer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1618477655622">
-      <screen x="0" y="0" width="1024" height="728" />
+    <state x="-1824" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1670528444784">
+      <screen x="-1920" y="0" width="1280" height="688" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217750788" />
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/1024.0.1024.728/-1280.0.1280.984@0.0.1024.728" timestamp="1618477655622" />
-    <state x="13" y="6" key="SettingsEditor" timestamp="1617038255933">
-      <screen x="0" y="0" width="1024" height="728" />
+    <state x="-1824" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528444784" />
+    <state x="-1559" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1670528398251">
+      <screen x="-1920" y="0" width="1280" height="688" />
     </state>
-    <state x="13" y="6" key="SettingsEditor/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1617038255933" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1618477662500">
-      <screen x="0" y="0" width="1024" height="728" />
+    <state x="-1559" y="139" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528398251" />
+    <state x="-1599" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1670962540799">
+      <screen x="-1920" y="0" width="1280" height="688" />
     </state>
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217753988" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1024.728/-1280.0.1280.984@0.0.1024.728" timestamp="1618477662500" />
-    <state x="208" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618565498354">
-      <screen x="0" y="0" width="1024" height="728" />
+    <state x="-1599" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1280.688/0.0.2560.1392/2560.510.1920.1032@-1920.0.1280.688" timestamp="1670962540799" />
+    <state x="-1549" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670528907811">
+      <screen x="-1920" y="0" width="1280" height="688" />
     </state>
-    <state x="208" y="188" key="com.intellij.ide.util.TipDialog/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618217601519" />
-    <state x="208" y="188" key="com.intellij.ide.util.TipDialog/0.0.1024.728/1024.0.1024.728/-1280.0.1280.984@0.0.1024.728" timestamp="1618565498354" />
-    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618130073430">
-      <screen x="0" y="0" width="1024" height="728" />
+    <state x="-1549" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528907811" />
+    <state x="-1569" y="0" key="#main" timestamp="1670528416369">
+      <screen x="-1920" y="0" width="1280" height="688" />
     </state>
-    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728/-1280.0.1280.984/1024.0.1024.728@0.0.1024.728" timestamp="1618130073430" />
+    <state x="-1569" y="0" key="#main/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528416369" />
+    <state x="-1499" y="99" key="FileChooserDialogImpl" timestamp="1670528441175">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state x="-1499" y="99" key="FileChooserDialogImpl/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528441175" />
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom" timestamp="1670720723401">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529824377" />
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723401" />
+    <state width="1237" height="201" key="GridCell.Tab.0.center" timestamp="1670720723401">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.center/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529824377" />
+    <state width="1237" height="201" key="GridCell.Tab.0.center/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723401" />
+    <state width="1237" height="201" key="GridCell.Tab.0.left" timestamp="1670720723401">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.left/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529824377" />
+    <state width="1237" height="201" key="GridCell.Tab.0.left/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723401" />
+    <state width="1237" height="201" key="GridCell.Tab.0.right" timestamp="1670720723401">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.right/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529824377" />
+    <state width="1237" height="201" key="GridCell.Tab.0.right/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723401" />
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1670720723402">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529787616" />
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723402" />
+    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1670720723402">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.1.center/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529787616" />
+    <state width="1237" height="201" key="GridCell.Tab.1.center/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723402" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1670720723402">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.1.left/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529787616" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723402" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1670720723402">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.1.right/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529787616" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1050@-1920.0.1280.688" timestamp="1670720723402" />
+    <state x="-1778" y="0" key="SettingsEditor" timestamp="1670529085499">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state x="-1778" y="0" key="SettingsEditor/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670529085499" />
+    <state x="-1487" y="196" key="scopes" timestamp="1670528979130">
+      <screen x="-1920" y="0" width="1280" height="688" />
+    </state>
+    <state x="-1487" y="196" key="scopes/-1920.0.1280.688/0.0.2560.1392/2560.510.1680.1002@-1920.0.1280.688" timestamp="1670528979130" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binarySearch.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binarySearch.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -253,5 +350,8 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcoder$main.coverage" NAME="main Coverage Results" MODIFIED="1670529787127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

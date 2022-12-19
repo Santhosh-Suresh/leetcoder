@@ -1,3 +1,4 @@
-from MinCostClimbingStairs_746 import Solution
+from binarySearch import Solution
 
 a = Solution()
+print(a.searchRange([],6))
