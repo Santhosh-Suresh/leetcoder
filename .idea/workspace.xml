@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c04cd5-c97e-4b07-ae0d-c31f17c8adf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binarySearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcoder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dec_22_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dec_22_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +125,7 @@
       <workItem from="1670962507471" duration="64000" />
       <workItem from="1670962837332" duration="1578000" />
       <workItem from="1670969239662" duration="35000" />
+      <workItem from="1671485291010" duration="1269000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Sum of Left Leaves (Easy) via Recursion model">
       <created>1617038359508</created>
